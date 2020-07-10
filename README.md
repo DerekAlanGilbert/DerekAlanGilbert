@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working @ Homie
-- 🌱 I’m currently learning Hasura and graphQl Architecture.
-- 🤔 I’m looking for help with enterpise authentication
-- 💬 Ask me about Vue/Nuxt
-- 📫 How to reach me: derek.gilbert@hey.com
+Little about me: 
+
+- 🏡 Building the future of Real Estate @ Homie.com
+- 🌱 Currently learning Hasura and GraphQl Architecture.
+- 💬 Ask me about Vue/Nuxt/TailwindCss/Axios
+- 📫 Reach me @ derek.gilbert@hey.com

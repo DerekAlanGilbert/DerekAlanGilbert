@@ -18,10 +18,6 @@ At Consensus, I lead applied AI across internal teams, engineering, and product.
 
 ## Selected public work
 
-### [Diabetic Collective](https://github.com/DerekAlanGilbert/islet-advocacy)
-
-A responsive Type 1 diabetes advocacy experience that translates medical and legislative complexity into an accessible path for public action. Built as a lightweight, framework-free web application and deployed on Vercel.
-
 ### [Thinking Backward](https://thinkingbackward.com)
 
 Field notes on AI fluency, agentic systems, product delivery, and the operating models companies need as software becomes increasingly capable.
